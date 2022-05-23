@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "NYC on Film",
+    "price": "1.00",
+    "description": "Includes 8 film photos around Midtown Manhattan, West Village, Downtown, and more.",
+    "image_url": "https://scontent.fkul3-4.fna.fbcdn.net/v/t39.30808-6/277799748_5100773653313106_2937437064558765592_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-UX5OSRCqtUAX_xuKgl&_nc_ht=scontent.fkul3-4.fna&oh=00_AT-bb_lnRTlMRXWDqe2Q9GbkawDUiAoQBJMU6spfIAVLAg&oe=628EAB23",
+    "filename": "NYC-on-film.zip",
+    "hash": "QmbdB1ZFVMCnxK2FH3tp1rMd3Y96VoL8gzHJyLRfirRyEW"
+  },
+  {
+    "id": 2,
+    "name": "LA on Film",
+    "price": "1.00",
+    "image_url": "https://scontent.fkul3-3.fna.fbcdn.net/v/t39.30808-6/270038544_4769859829737825_1522803169254906717_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=-R9XxwdJ--AAX9a5riR&_nc_ht=scontent.fkul3-3.fna&oh=00_AT9l6hzJGGHcJloEmNNock8rCK6u_ZaXXe05MIsctgWybQ&oe=628FD31B",
+    "description": "Includes 8 film photos around Beverly Hills, Hollywood Hills, Sunset Boulevard, and more.",
+    "filename": "LA on Film.zip",
+    "hash": "QmVtGoA7m3DF5yKfSQcGLC9FSuD5Hff86QKxDAKp4osgFk"
+  }
+]
